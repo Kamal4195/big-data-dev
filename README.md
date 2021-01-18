@@ -14,4 +14,4 @@ GitHub - [https://github.com/Kamal4195](https://github.com/Kamal4195)
 
 LinkedIn -[https://www.linkedin.com/in/kamal-reddy-donthireddy-80b280157/](https://www.linkedin.com/in/kamal-reddy-donthireddy-80b280157/)
 
-![]()
+![](https://github.com/Kamal4195/big-data-dev/blob/main/kamalpic.jpg)
